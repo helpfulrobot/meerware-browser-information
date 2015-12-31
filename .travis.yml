@@ -33,4 +33,4 @@ before_script:
   - composer install
 
 script:
-  - vendor/bin/phpunit silverstripe-browser-information/tests
+  - vendor/bin/phpunit meerware-browser-information/tests
